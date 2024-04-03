@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    // other compiler options...
+  },
+  "include": [
+    "**/*.ts",
+    "src", // Add the path to your source files here
+    "constants/styles.js",
+    "constants/Colors.js"
+  ],
+  "exclude": ["node_modules"]
+}
